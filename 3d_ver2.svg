@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="422.80417mm"
+   height="203.84772mm"
+   viewBox="0 0 422.80417 203.84771"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="3d_ver2.svg"
+   inkscape:export-filename="/home/amuriy/dev/github/stuff/3d_ver2.svg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path905"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="620.54464"
+     inkscape:cy="307.26885"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="874"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(93.954079,-46.131833)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/amuriy/dev/github/stuff/3d_ver2.tif"
+       xlink:href="3d_ver2.tif"
+       width="422.80417"
+       height="203.46458"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image896"
+       x="-93.954079"
+       y="46.514973" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-0.27538333,0.2132561)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.06500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 336.83788,64.967548 196.14343,96.243643"
+       id="path900"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32114628px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="372.13239"
+       y="39.073277"
+       id="text1498"><tspan
+         sodipodi:role="line"
+         id="tspan1496"
+         x="372.13239"
+         y="39.073277"
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px">стоянка</tspan><tspan
+         sodipodi:role="line"
+         x="372.13239"
+         y="47.010777"
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px"
+         id="tspan1508">Хаджох-2</tspan><tspan
+         sodipodi:role="line"
+         x="372.13239"
+         y="54.948277"
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px"
+         id="tspan2640">(красным выделен</tspan><tspan
+         sodipodi:role="line"
+         x="373.14319"
+         y="62.885777"
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px"
+         id="tspan2642">бассейн </tspan><tspan
+         sodipodi:role="line"
+         x="372.13239"
+         y="70.823273"
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px"
+         id="tspan2644">р. Средний Хаджох)</tspan></text>
+    <text
+       id="text1502"
+       y="108.2094"
+       x="345.64316"
+       style="font-style:normal;font-weight:normal;font-size:7.76111126px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="rotate(-2.5382644)"><tspan
+         style="stroke-width:0.26458332px"
+         y="108.2094"
+         x="345.64316"
+         id="tspan1500"
+         sodipodi:role="line">5 км</tspan></text>
+    <text
+       transform="rotate(2.4794451)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="374.73587"
+       y="146.62819"
+       id="text1506"><tspan
+         sodipodi:role="line"
+         id="tspan1504"
+         x="374.73587"
+         y="146.62819"
+         style="stroke-width:0.26458332px">С</tspan></text>
+    <text
+       id="text1520"
+       y="149.26707"
+       x="225.73436"
+       style="font-style:normal;font-weight:normal;font-size:12.95316505px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40478641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(1.1225475,-0.01188026,-0.04939019,0.89135362,0,0)"><tspan
+         id="tspan1518"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.40478641px"
+         y="149.26707"
+         x="225.73436"
+         sodipodi:role="line">бассейн  р.Белая</tspan></text>
+    <text
+       id="text2620"
+       y="13.402925"
+       x="106.90604"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32114628px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px"
+         y="13.402925"
+         x="106.90604"
+         sodipodi:role="line"
+         id="tspan2624">г. Бол. Тхач</tspan><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px"
+         y="21.340424"
+         x="106.90604"
+         sodipodi:role="line"
+         id="tspan2628">2368</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32114628px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="183.87965"
+       y="12.066577"
+       id="text2634"><tspan
+         id="tspan2630"
+         sodipodi:role="line"
+         x="183.87965"
+         y="12.066577"
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px">г. Пшекиш</tspan><tspan
+         id="tspan2632"
+         sodipodi:role="line"
+         x="183.87965"
+         y="20.004076"
+         style="text-align:center;text-anchor:middle;stroke-width:0.32114628px">2242</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2646"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion2648"><rect
+           id="rect2650"
+           width="167.14285"
+           height="38.57143"
+           x="1312.8572"
+           y="131.87663" /></flowRegion><flowPara
+         id="flowPara2652"></flowPara></flowRoot>    <text
+       transform="matrix(1.122606,0.00311308,-0.06129033,0.89061448,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.95316505px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40478641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="90.075569"
+       y="171.53072"
+       id="text2658"><tspan
+         sodipodi:role="line"
+         x="90.075569"
+         y="171.53072"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke-width:0.40478641px;stroke:#ffffff"
+         id="tspan2656">бассейн  р.Фарс</tspan></text>
+    <text
+       id="text2662"
+       y="77.190544"
+       x="42.182484"
+       style="font-style:normal;font-weight:normal;font-size:12.95316505px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40478641px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(1.1225666,0.00991497,-0.0666855,0.89022675,0,0)"><tspan
+         id="tspan2660"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.40478641px"
+         y="77.190544"
+         x="42.182484"
+         sodipodi:role="line">бассейн</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:0.40478641px"
+         y="93.382004"
+         x="42.182484"
+         sodipodi:role="line"
+         id="tspan2664">р.Лаба</tspan></text>
+  </g>
+</svg>
