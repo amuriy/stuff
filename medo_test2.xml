@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Objects xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" alias="Паспорта медслужбы">
+  <Object alias="Объект">
+    <id alias="Идентификатор объекта в ИС">8d5c82a8-8690-4d53-954c-31dd1d3f90da</id>
+    <system_id alias="Идентификатор системы">91abaa4e-6608-11e6-82f3-000c293e6042</system_id>
+    <location alias="Привязка объекта">
+      <geometry alias="Географическая привязка объекта">
+        <geometry_epsg alias="Код EPSG системы координат">4326</geometry_epsg>
+        <geometry_type alias="Тип геометрии">0</geometry_type>
+        <geometry_gml alias="Привязка объекта в формате GML">
+          <gml:Point srsDimension="2" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+            <gml:pos>131.952222222222 -43.1677777777778</gml:pos>
+          </gml:Point>
+        </geometry_gml>
+      </geometry>
+    </location>
+    <class_id alias="Код знака">141714002001010601000000</class_id>
+    <name alias="Наименование">ВЛУ 3.1.1</name>
+    <label alias="Надпись">ВЛУ 3.1.1</label>
+    <value alias="Значащая величина">1</value>
+    <operation alias="признак операции над объектом">0</operation>
+    <lifetime alias="срок хранения объекта в БД">1</lifetime>
+    <attributes>
+      <attribute name="Наименование учреждения" type="String" alias="Наименование учреждения">ВЛУ 3.1.1</attribute>
+      <attribute name="Адрес учреждения" type="String" alias="Адрес учреждения">11</attribute>
+      <attribute name="Руководитель" type="String" alias="Руководитель"></attribute>
+      <attribute name="Телефон" type="String" alias="Телефон">tyt</attribute>
+      <attribute name="Медицинская зона (район) ответственности" type="String" alias="Медицинская зона (район) ответственности">15</attribute>
+      <attributeGroup name="Характеристики ВМО" alias="Характеристики ВМО">
+        <attributeGroup alias="Здания и сооружения" name="Здания и сооружения">
+          <attribute name="Заголовок зданий и сооружений" type="String" alias="Наименование">Год постройки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Лицензии" name="Лицензии">
+          <attribute name="Заголовок лицензий" type="String" alias="Наименование">Срок действия</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Отделения ВМО" name="Отделения ВМО">
+          <attribute name="Отделения ВМО" type="String" alias="Наименование">Развернутые койки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Укомплектованность персоналом (%)" name="Персонал">
+          <attribute name="Персонал" type="String" alias="Категория персонала">Укомплектованность</attribute>
+          <attribute name="Персонал" type="Integer" alias="Врачи">89</attribute>
+          <attribute name="Персонал" type="Integer" alias="Средний медицинский персонал">80</attribute>
+          <attribute name="Персонал" type="Integer" alias="Младший медицинский персонал">90</attribute>
+          <attribute name="Персонал" type="Integer" alias="Прочие сотрудники">76</attribute>
+        </attributeGroup>
+      </attributeGroup>
+    </attributes>
+  </Object>
+  <Object alias="Объект">
+    <id alias="Идентификатор объекта в ИС">1f05a231-bb51-40a3-9293-4e35909121fd</id>
+    <system_id alias="Идентификатор системы">91abaa4e-6608-11e6-82f3-000c293e6042</system_id>
+    <location alias="Привязка объекта">
+      <geometry alias="Географическая привязка объекта">
+        <geometry_epsg alias="Код EPSG системы координат">4326</geometry_epsg>
+        <geometry_type alias="Тип геометрии">0</geometry_type>
+        <geometry_gml alias="Привязка объекта в формате GML">
+          <gml:Point srsDimension="2" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+            <gml:pos>131.952222222222 -43.1677777777778</gml:pos>
+          </gml:Point>
+        </geometry_gml>
+      </geometry>
+    </location>
+    <class_id alias="Код знака">141714002001010601000000</class_id>
+    <name alias="Наименование">ВЛУ 3.12</name>
+    <label alias="Надпись">ВЛУ 3.12</label>
+    <value alias="Значащая величина">1</value>
+    <operation alias="признак операции над объектом">0</operation>
+    <lifetime alias="срок хранения объекта в БД">1</lifetime>
+    <attributes>
+      <attribute name="Наименование учреждения" type="String" alias="Наименование учреждения">ВЛУ 3.12</attribute>
+      <attribute name="Адрес учреждения" type="String" alias="Адрес учреждения">tyutyu</attribute>
+      <attribute name="Руководитель" type="String" alias="Руководитель">ФИО 7</attribute>
+      <attribute name="Телефон" type="String" alias="Телефон">32535</attribute>
+      <attribute name="Медицинская зона (район) ответственности" type="String" alias="Медицинская зона (район) ответственности">цкен</attribute>
+      <attributeGroup name="Характеристики ВМО" alias="Характеристики ВМО">
+        <attributeGroup alias="Здания и сооружения" name="Здания и сооружения">
+          <attribute name="Заголовок зданий и сооружений" type="String" alias="Наименование">Год постройки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Лицензии" name="Лицензии">
+          <attribute name="Заголовок лицензий" type="String" alias="Наименование">Срок действия</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Отделения ВМО" name="Отделения ВМО">
+          <attribute name="Отделения ВМО" type="String" alias="Наименование">Развернутые койки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Укомплектованность персоналом (%)" name="Персонал">
+          <attribute name="Персонал" type="String" alias="Категория персонала">Укомплектованность</attribute>
+          <attribute name="Персонал" type="Integer" alias="Врачи">80</attribute>
+          <attribute name="Персонал" type="Integer" alias="Средний медицинский персонал">93</attribute>
+          <attribute name="Персонал" type="Integer" alias="Младший медицинский персонал">80</attribute>
+          <attribute name="Персонал" type="Integer" alias="Прочие сотрудники">92</attribute>
+        </attributeGroup>
+      </attributeGroup>
+    </attributes>
+  </Object>
+  <Object alias="Объект">
+    <id alias="Идентификатор объекта в ИС">339f520d-3503-832e-a3f7-f42f4d9a2708</id>
+    <system_id alias="Идентификатор системы">91abaa4e-6608-11e6-82f3-000c293e6042</system_id>
+    <location alias="Привязка объекта">
+      <geometry alias="Географическая привязка объекта">
+        <geometry_epsg alias="Код EPSG системы координат">4326</geometry_epsg>
+        <geometry_type alias="Тип геометрии">0</geometry_type>
+        <geometry_gml alias="Привязка объекта в формате GML">
+          <gml:Point srsDimension="2" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+            <gml:pos>36.5861111111111 54.0013888888889</gml:pos>
+          </gml:Point>
+        </geometry_gml>
+      </geometry>
+    </location>
+    <class_id alias="Код знака">141714002001010601000000</class_id>
+    <name alias="Наименование">ВЛУ 3 для теста переведенных</name>
+    <label alias="Надпись">ВЛУ 3 для теста переведенных</label>
+    <value alias="Значащая величина">1</value>
+    <operation alias="признак операции над объектом">0</operation>
+    <lifetime alias="срок хранения объекта в БД">1</lifetime>
+    <attributes>
+      <attribute name="Наименование учреждения" type="String" alias="Наименование учреждения">ВЛУ 3 для теста переведенных</attribute>
+      <attribute name="Адрес учреждения" type="String" alias="Адрес учреждения"></attribute>
+      <attribute name="Руководитель" type="String" alias="Руководитель"></attribute>
+      <attribute name="Телефон" type="String" alias="Телефон">221
+</attribute>
+      <attribute name="Медицинская зона (район) ответственности" type="String" alias="Медицинская зона (район) ответственности"></attribute>
+      <attributeGroup name="Характеристики ВМО" alias="Характеристики ВМО">
+        <attributeGroup alias="Здания и сооружения" name="Здания и сооружения">
+          <attribute name="Заголовок зданий и сооружений" type="String" alias="Наименование">Год постройки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Лицензии" name="Лицензии">
+          <attribute name="Заголовок лицензий" type="String" alias="Наименование">Срок действия</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Отделения ВМО" name="Отделения ВМО">
+          <attribute name="Отделения ВМО" type="String" alias="Наименование">Развернутые койки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Укомплектованность персоналом (%)" name="Персонал">
+          <attribute name="Персонал" type="String" alias="Категория персонала">Укомплектованность</attribute>
+          <attribute name="Персонал" type="Integer" alias="Врачи">81</attribute>
+          <attribute name="Персонал" type="Integer" alias="Средний медицинский персонал">84</attribute>
+          <attribute name="Персонал" type="Integer" alias="Младший медицинский персонал">79</attribute>
+          <attribute name="Персонал" type="Integer" alias="Прочие сотрудники">88</attribute>
+        </attributeGroup>
+      </attributeGroup>
+    </attributes>
+  </Object>
+  <Object alias="Объект">
+    <id alias="Идентификатор объекта в ИС">31db8b17-0b31-1794-973c-c1b53e129c84</id>
+    <system_id alias="Идентификатор системы">91abaa4e-6608-11e6-82f3-000c293e6042</system_id>
+    <location alias="Привязка объекта">
+      <geometry alias="Географическая привязка объекта">
+        <geometry_epsg alias="Код EPSG системы координат">4326</geometry_epsg>
+        <geometry_type alias="Тип геометрии">0</geometry_type>
+        <geometry_gml alias="Привязка объекта в формате GML">
+          <gml:Point srsDimension="2" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+            <gml:pos>36.5861111111111 54.0013888888889</gml:pos>
+          </gml:Point>
+        </geometry_gml>
+      </geometry>
+    </location>
+    <class_id alias="Код знака">141714002001010601000000</class_id>
+    <name alias="Наименование">ВЛУ 1.
+</name>
+    <label alias="Надпись">ВЛУ 1.
+</label>
+    <value alias="Значащая величина">1</value>
+    <operation alias="признак операции над объектом">0</operation>
+    <lifetime alias="срок хранения объекта в БД">1</lifetime>
+    <attributes>
+      <attribute name="Наименование учреждения" type="String" alias="Наименование учреждения">ВЛУ 1.
+</attribute>
+      <attribute name="Адрес учреждения" type="String" alias="Адрес учреждения">11</attribute>
+      <attribute name="Руководитель" type="String" alias="Руководитель"></attribute>
+      <attribute name="Телефон" type="String" alias="Телефон"></attribute>
+      <attribute name="Медицинская зона (район) ответственности" type="String" alias="Медицинская зона (район) ответственности"></attribute>
+      <attributeGroup name="Характеристики ВМО" alias="Характеристики ВМО">
+        <attributeGroup alias="Здания и сооружения" name="Здания и сооружения">
+          <attribute name="Заголовок зданий и сооружений" type="String" alias="Наименование">Год постройки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Лицензии" name="Лицензии">
+          <attribute name="Заголовок лицензий" type="String" alias="Наименование">Срок действия</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Отделения ВМО" name="Отделения ВМО">
+          <attribute name="Отделения ВМО" type="String" alias="Наименование">Развернутые койки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Укомплектованность персоналом (%)" name="Персонал">
+          <attribute name="Персонал" type="String" alias="Категория персонала">Укомплектованность</attribute>
+          <attribute name="Персонал" type="Integer" alias="Врачи">78</attribute>
+          <attribute name="Персонал" type="Integer" alias="Средний медицинский персонал">81</attribute>
+          <attribute name="Персонал" type="Integer" alias="Младший медицинский персонал">78</attribute>
+          <attribute name="Персонал" type="Integer" alias="Прочие сотрудники">91</attribute>
+        </attributeGroup>
+      </attributeGroup>
+    </attributes>
+  </Object>
+  <Object alias="Объект">
+    <id alias="Идентификатор объекта в ИС">3043c9c7-09b2-421d-91e9-0bfd2b648ac3</id>
+    <system_id alias="Идентификатор системы">91abaa4e-6608-11e6-82f3-000c293e6042</system_id>
+    <location alias="Привязка объекта">
+      <geometry alias="Географическая привязка объекта">
+        <geometry_epsg alias="Код EPSG системы координат">4326</geometry_epsg>
+        <geometry_type alias="Тип геометрии">0</geometry_type>
+        <geometry_gml alias="Привязка объекта в формате GML">
+          <gml:Point srsDimension="2" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+            <gml:pos>73.3355555555555 55.9858333333333</gml:pos>
+          </gml:Point>
+        </geometry_gml>
+      </geometry>
+    </location>
+    <class_id alias="Код знака">14171100100801060113</class_id>
+    <name alias="Наименование">Прочие 2.2</name>
+    <label alias="Надпись">Прочие 2.2</label>
+    <value alias="Значащая величина">1</value>
+    <operation alias="признак операции над объектом">0</operation>
+    <lifetime alias="срок хранения объекта в БД">1</lifetime>
+    <attributes>
+      <attribute name="Наименование учреждения" type="String" alias="Наименование учреждения">Прочие 2.2</attribute>
+      <attribute name="Адрес учреждения" type="String" alias="Адрес учреждения">123</attribute>
+      <attribute name="Руководитель" type="String" alias="Руководитель"></attribute>
+      <attribute name="Телефон" type="String" alias="Телефон"></attribute>
+      <attribute name="Медицинская зона (район) ответственности" type="String" alias="Медицинская зона (район) ответственности"></attribute>
+      <attributeGroup name="Характеристики ВМО" alias="Характеристики ВМО">
+        <attributeGroup alias="Здания и сооружения" name="Здания и сооружения">
+          <attribute name="Заголовок зданий и сооружений" type="String" alias="Наименование">Год постройки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Лицензии" name="Лицензии">
+          <attribute name="Заголовок лицензий" type="String" alias="Наименование">Срок действия</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Отделения ВМО" name="Отделения ВМО">
+          <attribute name="Отделения ВМО" type="String" alias="Наименование">Развернутые койки</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Укомплектованность персоналом (%)" name="Персонал">
+          <attribute name="Персонал" type="String" alias="Категория персонала">Укомплектованность</attribute>
+          <attribute name="Персонал" type="Integer" alias="Врачи">89</attribute>
+          <attribute name="Персонал" type="Integer" alias="Средний медицинский персонал">90</attribute>
+          <attribute name="Персонал" type="Integer" alias="Младший медицинский персонал">93</attribute>
+          <attribute name="Персонал" type="Integer" alias="Прочие сотрудники">84</attribute>
+        </attributeGroup>
+      </attributeGroup>
+    </attributes>
+  </Object>
+  <Object alias="Объект">
+    <id alias="Идентификатор объекта в ИС">b8b7fdc8-9858-4bba-8455-22e680974504</id>
+    <system_id alias="Идентификатор системы">91abaa4e-6608-11e6-82f3-000c293e6042</system_id>
+    <location alias="Привязка объекта">
+      <geometry alias="Географическая привязка объекта">
+        <geometry_epsg alias="Код EPSG системы координат">4326</geometry_epsg>
+        <geometry_type alias="Тип геометрии">0</geometry_type>
+        <geometry_gml alias="Привязка объекта в формате GML">
+          <gml:Point srsDimension="2" srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+            <gml:pos>38.9669444444444 45.0175</gml:pos>
+          </gml:Point>
+        </geometry_gml>
+      </geometry>
+    </location>
+    <class_id alias="Код знака">141714002001010601000000</class_id>
+    <name alias="Наименование">Проверяем с Алексеем</name>
+    <label alias="Надпись">Проверяем с Алексеем</label>
+    <value alias="Значащая величина">1</value>
+    <operation alias="признак операции над объектом">0</operation>
+    <lifetime alias="срок хранения объекта в БД">1</lifetime>
+    <attributes>
+      <attribute name="Наименование учреждения" type="String" alias="Наименование учреждения">Проверяем с Алексеем</attribute>
+      <attribute name="Адрес учреждения" type="String" alias="Адрес учреждения">1</attribute>
+      <attribute name="Руководитель" type="String" alias="Руководитель">ФИО 13</attribute>
+      <attribute name="Телефон" type="String" alias="Телефон">1</attribute>
+      <attribute name="Медицинская зона (район) ответственности" type="String" alias="Медицинская зона (район) ответственности">1</attribute>
+      <attributeGroup name="Характеристики ВМО" alias="Характеристики ВМО">
+        <attributeGroup alias="Здания и сооружения" name="Здания и сооружения">
+          <attribute name="Заголовок зданий и сооружений" type="String" alias="Наименование">Год постройки</attribute>
+          <attribute name="Здание прачечной, ЦСО" type="Integer" alias="Здание прачечной, ЦСО">2000</attribute>
+          <attribute name="Котельная" type="Integer" alias="Котельная">2000</attribute>
+          <attribute name="Наименование 7" type="Integer" alias="Наименование 7">2000</attribute>
+          <attribute name="Наименование 9" type="Integer" alias="Наименование 9">2014</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Лицензии" name="Лицензии">
+          <attribute name="Заголовок лицензий" type="String" alias="Наименование">Срок действия</attribute>
+          <attribute name="Наименование 2" type="String" alias="Наименование 2">345</attribute>
+          <attribute name="Медицинская" type="String" alias="Медицинская"></attribute>
+          <attribute name="Связанная с оборотом наркотических средств и психотропных веществ" type="String" alias="Связанная с оборотом наркотических средств и психотропных веществ">123</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Отделения ВМО" name="Отделения ВМО">
+          <attribute name="Отделения ВМО" type="String" alias="Наименование">Развернутые койки</attribute>
+          <attribute name="Наименование 361230" type="Integer" alias="Наименование 361230">12</attribute>
+        </attributeGroup>
+        <attributeGroup alias="Укомплектованность персоналом (%)" name="Персонал">
+          <attribute name="Персонал" type="String" alias="Категория персонала">Укомплектованность</attribute>
+          <attribute name="Персонал" type="Integer" alias="Врачи">83</attribute>
+          <attribute name="Персонал" type="Integer" alias="Средний медицинский персонал">91</attribute>
+          <attribute name="Персонал" type="Integer" alias="Младший медицинский персонал">97</attribute>
+          <attribute name="Персонал" type="Integer" alias="Прочие сотрудники">80</attribute>
+        </attributeGroup>
+      </attributeGroup>
+    </attributes>
+  </Object>
+</Objects>
